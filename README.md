@@ -1,1 +1,1 @@
-this is my first Jest framework practice
+basics of jest framework
